@@ -1,4 +1,4 @@
-#Found as /etc/netplan/50-cloud-init.yaml to setup an interface
+#Found as /etc/netplan/50-cloud-init.yaml to setup an interface. $ sudo netplan applysudo netplan --debug apply #if you run into some issues
   6 network:
   7     ethernets:
   8         eth0:
