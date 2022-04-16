@@ -1,0 +1,1 @@
+NetPlanSetup.sh - Sets up a wifi network on an interface. ./NetPlanSetup.sh <ssid> <password> <interface> 
